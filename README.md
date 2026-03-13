@@ -6,9 +6,9 @@
 [![Maven](https://img.shields.io/badge/Maven-Build-orange)](https://maven.apache.org/)
 
 📧 Contato
-[Seu Nome] - seu.email@example.com
+Leonardo Machado Arroyo - leonardomachadoarroyo14@example.com
 
-LinkedIn: https://www.linkedin.com/in/seu-perfil/
+LinkedIn: https://www.linkedin.com/in/leonardo-machado-arroyo/
 
 ## 📋 Sobre o Projeto
 
