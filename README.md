@@ -5,6 +5,11 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)](https://www.mongodb.com/)
 [![Maven](https://img.shields.io/badge/Maven-Build-orange)](https://maven.apache.org/)
 
+📧 Contato
+[Seu Nome] - seu.email@example.com
+
+LinkedIn: https://www.linkedin.com/in/seu-perfil/
+
 ## 📋 Sobre o Projeto
 
 Este projeto é uma API REST desenvolvida durante o curso "Java COMPLETO 2023 Programação Orientada a Objetos" do professor Nélio Alves (Udemy), com foco na integração do Spring Boot com o banco de dados NoSQL **MongoDB**.
